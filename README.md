@@ -13,27 +13,6 @@ Elle permet d’ajouter, compléter et supprimer des tâches en toute simplicit�
 - 📊 Affichage dynamique du nombre de tâches restantes et complétées  
 ---
 
-## 🧠 Structure du projet
-
-src/
-├── Components/
-│ ├── header/
-│ │ └── header.jsx
-│ ├── footer/
-│ │ └── footer.jsx
-│ ├── taskinput/
-│ │ └── taskinput.jsx
-│ ├── taskitem/
-│ │ └── taskitem.jsx
-│ └── taskList/
-│ └── taskList.jsx
-├── TaskContainer.jsx
-├── App.jsx
-├── main.jsx
-└── assets/
-
-
----
 
 ## ⚙️ Installation et lancement
 
